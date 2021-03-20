@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array.sort()
+  array.sort();                         #sort array alphabetically or from least to greatest.
 end
 
 def using_reverse(array)
